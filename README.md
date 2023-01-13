@@ -9,6 +9,12 @@
 [1nonly's home](https://home.nonly.cn/)
 <br>
 
+## 更新
+
+2023/01/13 update
+- 增加了底部小图标
+- 增加了加载动画效果
+
 ## 关于
 
 无聊抄抄写写的。
