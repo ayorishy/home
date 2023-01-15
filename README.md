@@ -6,7 +6,7 @@
 
 <h3 style="color:#5b94b1">代码不规范，学习中。</h3>
 
-[1nonly's home](https://home.nonly.cn/)
+[1nonly's home](https://www.nonly.cn/)
 <br>
 
 ## 更新
